@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.openimaj.content:animation:1.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openimaj/content/animation/1.4-SNAPSHOT/animation-1.4-20171231.095437-115.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openimaj/content/animation/1.4-SNAPSHOT/animation-1.4-20171231.095437-115-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openimaj/content/animation/1.4-SNAPSHOT/animation-1.4-20171231.095437-115-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
